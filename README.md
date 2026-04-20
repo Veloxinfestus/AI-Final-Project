@@ -1,5 +1,3 @@
-# README.md
-
 # Study Planner — AI‑Assisted Weekly Scheduling Tool
 
 ## Project Purpose
